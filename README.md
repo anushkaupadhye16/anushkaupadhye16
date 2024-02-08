@@ -1,3 +1,4 @@
+![logo](https://github.com/anushkaupadhye16/anushkaupadhye16/blob/main/Anushka%20Upadhye.png)
 <h1 align="center">Hi 👋, I'm Anushka Upadhye</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
